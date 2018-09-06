@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 150187f27d05f4d4a99a0f56bf38192c
+timeCreated: 1502100192
+licenseType: Pro
+ShaderImporter:
+  defaultTextures:
+  - _MainTex: {instanceID: 0}
+  - _FlowMap: {instanceID: 0}
+  - _FlowMap_copy: {instanceID: 0}
+  - _FlowMap_U: {instanceID: 0}
+  userData: 
+  assetBundleName: assets$resources$@shaders$custom$sf_lightning.shader.assets
+  assetBundleVariant: 

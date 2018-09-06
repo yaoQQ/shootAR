@@ -1,0 +1,121 @@
+fileFormatVersion: 2
+guid: 7a60d8da694ee2a4cbabbe3c380e0f68
+timeCreated: 1470049554
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Ship
+    100004: "\u5DE1\u6D0B\u8266"
+    100006: "\u6230\u70C8\u8266"
+    100008: "\u6CF0\u5766"
+    100010: "\u7121\u4EBA\u6A5F"
+    100012: "\u822A\u6BCD"
+    100014: "\u8B77\u885B\u8266"
+    100016: "\u9A45\u9010\u8266"
+    400000: //RootNode
+    400002: Ship
+    400004: "\u5DE1\u6D0B\u8266"
+    400006: "\u6230\u70C8\u8266"
+    400008: "\u6CF0\u5766"
+    400010: "\u7121\u4EBA\u6A5F"
+    400012: "\u822A\u6BCD"
+    400014: "\u8B77\u885B\u8266"
+    400016: "\u9A45\u9010\u8266"
+    2300000: //RootNode
+    2300002: Ship
+    2300004: "\u5DE1\u6D0B\u8266"
+    2300006: "\u6230\u70C8\u8266"
+    2300008: "\u6CF0\u5766"
+    2300010: "\u7121\u4EBA\u6A5F"
+    2300012: "\u822A\u6BCD"
+    2300014: "\u8B77\u885B\u8266"
+    2300016: "\u9A45\u9010\u8266"
+    3300000: //RootNode
+    3300002: Ship
+    3300004: "\u5DE1\u6D0B\u8266"
+    3300006: "\u6230\u70C8\u8266"
+    3300008: "\u6CF0\u5766"
+    3300010: "\u7121\u4EBA\u6A5F"
+    3300012: "\u822A\u6BCD"
+    3300014: "\u8B77\u885B\u8266"
+    3300016: "\u9A45\u9010\u8266"
+    4300000: 08
+    4300002: ShipD0701p_004
+    4300004: Ship
+    4300006: "\u6CF0\u5766"
+    4300008: "\u822A\u6BCD"
+    4300010: "\u6230\u70C8\u8266"
+    4300012: "\u5DE1\u6D0B\u8266"
+    4300014: "\u9A45\u9010\u8266"
+    4300016: "\u8B77\u885B\u8266"
+    4300018: "\u7121\u4EBA\u6A5F"
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: assets$resources$models$ships$shipd0701f_ui.fbx.assets
+  assetBundleVariant: 

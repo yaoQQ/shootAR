@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: db1861c12b403bb4db45e64639a1fe52
+timeCreated: 1502099994
+licenseType: Pro
+ShaderImporter:
+  defaultTextures:
+  - _MainTex: {instanceID: 0}
+  - _FlowMap: {instanceID: 0}
+  - _RadialUV_BtoMask: {instanceID: 0}
+  - _Mask: {instanceID: 0}
+  userData: 
+  assetBundleName: assets$resources$shaders$custom$sf_radialflowbasic.shader.assets
+  assetBundleVariant: 

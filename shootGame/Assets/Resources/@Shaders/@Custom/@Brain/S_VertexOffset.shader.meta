@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5e9eae307e6afc2499b3879c0f39633d
+timeCreated: 1502099385
+licenseType: Pro
+ShaderImporter:
+  defaultTextures:
+  - _OffsetMap: {instanceID: 0}
+  - _OffsetMap_copy: {instanceID: 0}
+  - _OffsetMap_copy_copy: {instanceID: 0}
+  - _Grid: {instanceID: 0}
+  - _node_5847: {instanceID: 0}
+  userData: 
+  assetBundleName: assets$resources$@shaders$custom$brain$s_vertexoffset.shader.assets
+  assetBundleVariant: 

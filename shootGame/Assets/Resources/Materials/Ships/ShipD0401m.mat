@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: ShipD0401m
+  m_Shader: {fileID: 4800000, guid: 26b1cd0dfc3d66d4a9194ce7b54e29e4, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 5
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 2000
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Bump:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Cubemap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DisintegrateTex:
+        m_Texture: {fileID: 2800000, guid: fabe50e6605f4f342b26caf4a0f57f6f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _GlossMap:
+        m_Texture: {fileID: 2800000, guid: 4ac50c0b867b60448906796df4e8f367, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Glow:
+        m_Texture: {fileID: 2800000, guid: c971c99bef81d984ab66130774833437, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _GlowAlpha:
+        m_Texture: {fileID: 2800000, guid: 60574f9da6c2e404098fbb7dd874ddfd, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 71c81e5d09a9db9419057482218ad17f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Spe:
+        m_Texture: {fileID: 2800000, guid: 71c81e5d09a9db9419057482218ad17f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _BSpePow: 2
+    - _BSpeRange: 20
+    - _BumpPow: 1
+    - _CubemapPow: 2
+    - _DisintegrateAmount: 0.001
+    - _EdgeRange: 0
+    - _GlowOffsetX: 1
+    - _GlowOffsetY: 0
+    - _GlowPow: 3
+    - _SpePow: 20
+    - _SpeRange: 50
+    m_Colors:
+    - _BSpeColor: {r: 1, g: 1, b: 1, a: 1}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _EdgeColor: {r: 0.19999999, g: 0.6689655, b: 1, a: 0}

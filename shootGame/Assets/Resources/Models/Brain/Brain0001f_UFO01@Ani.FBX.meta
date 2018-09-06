@@ -1,0 +1,157 @@
+fileFormatVersion: 2
+guid: 234e884169e4fd34386201b3e1209fe1
+timeCreated: 1466652665
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Dummy005
+    100002: Dummy006
+    100004: Dummy008
+    100006: Dummy009
+    100008: Dummy010
+    100010: Dummy011
+    100012: Dummy012
+    100014: Dummy014
+    100016: Dummy015
+    100018: Dummy016
+    100020: Dummy018
+    100022: //RootNode
+    100024: Dummy002
+    400000: Dummy005
+    400002: Dummy006
+    400004: Dummy008
+    400006: Dummy009
+    400008: Dummy010
+    400010: Dummy011
+    400012: Dummy012
+    400014: Dummy014
+    400016: Dummy015
+    400018: Dummy016
+    400020: Dummy018
+    400022: //RootNode
+    400024: Dummy002
+    7400000: Ani_UFO
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Ani_UFO
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 500
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Dummy008
+        weight: 1
+      - path: Dummy008/Dummy002
+        weight: 1
+      - path: Dummy008/Dummy005
+        weight: 1
+      - path: Dummy008/Dummy006
+        weight: 1
+      - path: Dummy009
+        weight: 1
+      - path: Dummy009/Dummy010
+        weight: 1
+      - path: Dummy009/Dummy011
+        weight: 1
+      - path: Dummy009/Dummy012
+        weight: 1
+      - path: Dummy018
+        weight: 1
+      - path: Dummy018/Dummy014
+        weight: 1
+      - path: Dummy018/Dummy015
+        weight: 1
+      - path: Dummy018/Dummy016
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

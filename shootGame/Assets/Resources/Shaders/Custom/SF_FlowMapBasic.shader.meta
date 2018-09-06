@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 4a98ad0c9f24d7148a46eb09e5e0b172
+timeCreated: 1502100330
+licenseType: Pro
+ShaderImporter:
+  defaultTextures:
+  - _FlowMap: {instanceID: 0}
+  - _UseR_GforAlpha: {instanceID: 0}
+  - _FlowMap_copy: {instanceID: 0}
+  userData: 
+  assetBundleName: assets$resources$@shaders$custom$sf_flowmapbasic.shader.assets
+  assetBundleVariant: 

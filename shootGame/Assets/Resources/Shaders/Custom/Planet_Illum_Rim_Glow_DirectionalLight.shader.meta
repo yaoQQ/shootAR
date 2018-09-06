@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 48aed649d45aa93448762eaecbd45cce
+timeCreated: 1469499271
+licenseType: Free
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: assets$resources$shaders$custom$planet_illum_rim_glow_directionallight.shader.assets
+  assetBundleVariant: 

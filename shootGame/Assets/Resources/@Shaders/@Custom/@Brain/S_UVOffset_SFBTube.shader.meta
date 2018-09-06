@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 402ffae1291a81442bd95ec1f103c26b
+timeCreated: 1502100437
+licenseType: Pro
+ShaderImporter:
+  defaultTextures:
+  - _MainTex: {instanceID: 0}
+  - _MainTex_copy: {instanceID: 0}
+  - _Mask: {instanceID: 0}
+  userData: 
+  assetBundleName: assets$resources$@shaders$custom$brain$s_uvoffset_sfbtube.shader.assets
+  assetBundleVariant: 

@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 97d7549e0d706ed40b0e6a5b7144a2be
+timeCreated: 1502100528
+licenseType: Pro
+ShaderImporter:
+  defaultTextures:
+  - _MainTex: {instanceID: 0}
+  - _FlowMap: {instanceID: 0}
+  - _NoiseWave: {instanceID: 0}
+  - _FlowMap_copy: {instanceID: 0}
+  userData: 
+  assetBundleName: assets$resources$@shaders$custom$brain$s_vertexoffset_ring.shader.assets
+  assetBundleVariant: 

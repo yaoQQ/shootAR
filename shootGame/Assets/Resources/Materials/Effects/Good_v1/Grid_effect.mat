@@ -1,0 +1,193 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Grid_effect
+  m_Shader: {fileID: 4800000, guid: 1b6ba06b4e02bd44aa5cc19394052584, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 5
+  m_CustomRenderQueue: 3010
+  stringTagMap: {}
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+    - first:
+        name: _DetailTex
+      second:
+        m_Texture: {fileID: 2800000, guid: 3f8e0595fda64c94dba37ec15b2bd9c1, type: 3}
+        m_Scale: {x: -1, y: 1}
+        m_Offset: {x: -0, y: 0}
+    - first:
+        name: _Grid
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _MainTex
+      second:
+        m_Texture: {fileID: 2800000, guid: 9d3356e083656154aa230d19501def7a, type: 3}
+        m_Scale: {x: -0.71, y: 2}
+        m_Offset: {x: 0.04, y: -0.07}
+    - first:
+        name: _MainTex_copy
+      second:
+        m_Texture: {fileID: 2800000, guid: c3fa7ca01b12a3c448949155a9e177ca, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _MainTex_copy_copy
+      second:
+        m_Texture: {fileID: 2800000, guid: c3fa7ca01b12a3c448949155a9e177ca, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _Mask
+      second:
+        m_Texture: {fileID: 2800000, guid: 68375862fd8fac74e85dce532a69bd02, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _OffsetMap
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _OffsetMap_copy
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _OffsetMap_copy_copy
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _node_5847
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - first:
+        name: _Cutoff
+      second: 0.5
+    - first:
+        name: _DX11_Tessellation
+      second: 8
+    - first:
+        name: _DiffFlowStrength
+      second: 0.035
+    - first:
+        name: _DiffuseStrength
+      second: 1
+    - first:
+        name: _EmissStrength
+      second: 2
+    - first:
+        name: _FresnalEdge
+      second: 2
+    - first:
+        name: _FresnelStrength
+      second: 0.5
+    - first:
+        name: _Fresnel_EXP
+      second: 1
+    - first:
+        name: _InnerValue
+      second: 0
+    - first:
+        name: _InvFade
+      second: 1
+    - first:
+        name: _MMultiplier
+      second: 1.3
+    - first:
+        name: _MainStrength
+      second: 4
+    - first:
+        name: _OffsetSpeed_A
+      second: 1
+    - first:
+        name: _OffsetSpeed_B
+      second: 0.5
+    - first:
+        name: _Offset_Speed
+      second: 1
+    - first:
+        name: _Offset_Strength
+      second: 0.1
+    - first:
+        name: _Scroll2X
+      second: 0
+    - first:
+        name: _Scroll2Y
+      second: 0
+    - first:
+        name: _ScrollX
+      second: 0
+    - first:
+        name: _ScrollY
+      second: -0.2
+    - first:
+        name: _ShinnyFrequency
+      second: 16
+    - first:
+        name: _SineAmplX
+      second: 0
+    - first:
+        name: _SineAmplX2
+      second: 0
+    - first:
+        name: _SineAmplY
+      second: 0
+    - first:
+        name: _SineAmplY2
+      second: 0
+    - first:
+        name: _SineFreqX
+      second: 0
+    - first:
+        name: _SineFreqX2
+      second: 0
+    - first:
+        name: _SineFreqY
+      second: 0
+    - first:
+        name: _SineFreqY2
+      second: 0
+    - first:
+        name: _SwithRorBchannel
+      second: 0
+    - first:
+        name: _Tessellation_Amount
+      second: 2
+    - first:
+        name: _U_Speed
+      second: 0.25
+    - first:
+        name: _V_Speed
+      second: 1
+    - first:
+        name: _VertexOffset_Srt
+      second: 0.1
+    m_Colors:
+    - first:
+        name: _Color
+      second: {r: 0.25302765, g: 0.4079852, b: 0.8602941, a: 1}
+    - first:
+        name: _TintColor
+      second: {r: 0.5, g: 0.5, b: 0.5, a: 0.5}
+    - first:
+        name: _U_Color
+      second: {r: 0.897, g: 0, b: 0.834, a: 1}
+    - first:
+        name: _V_Color
+      second: {r: 0, g: 0.462069, b: 1, a: 1}

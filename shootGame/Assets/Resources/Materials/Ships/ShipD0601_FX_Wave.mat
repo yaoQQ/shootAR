@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: ShipD0601_FX_Wave
+  m_Shader: {fileID: 4800000, guid: af17714178800a44da4ef9b9302d5a1a, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 5
+  m_CustomRenderQueue: 3000
+  stringTagMap: {}
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+    - first:
+        name: _FlowMap
+      second:
+        m_Texture: {fileID: 2800000, guid: 1bfecf3475bd05d47940194a9301d28a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _FlowMap_copy
+      second:
+        m_Texture: {fileID: 2800000, guid: 1bfecf3475bd05d47940194a9301d28a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _MainTex
+      second:
+        m_Texture: {fileID: 2800000, guid: c8807552be18c564d8424dd1d2aebdea, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _Mask
+      second:
+        m_Texture: {fileID: 2800000, guid: 7d80a4e8fd42b474794c59d620d2fa2a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - first:
+        name: _Alpha_Strength
+      second: 2
+    - first:
+        name: _Cutoff
+      second: 0.5
+    - first:
+        name: _Emissive_Strength
+      second: 1.5
+    - first:
+        name: _FlowMap_Strength
+      second: 0.5
+    - first:
+        name: _FlowU_Offset
+      second: 0.1
+    - first:
+        name: _FlowV_Offset
+      second: -0.25
+    - first:
+        name: _Indensity
+      second: 4
+    - first:
+        name: _MainTex_Voffset
+      second: -0.25
+    m_Colors:
+    - first:
+        name: _TintColor
+      second: {r: 0.2352941, g: 0.68356997, b: 1, a: 1}

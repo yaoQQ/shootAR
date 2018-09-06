@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e8538435586496d4fa5013696c2e42ef
+timeCreated: 1502100387
+licenseType: Pro
+ShaderImporter:
+  defaultTextures:
+  - _FlowMap: {instanceID: 0}
+  - _UseR_GforAlpha: {instanceID: 0}
+  - _FlowMap_copy: {instanceID: 0}
+  - _FadeNoise: {instanceID: 0}
+  - _UV_Tex: {instanceID: 0}
+  userData: 
+  assetBundleName: assets$resources$@shaders$custom$sf_explosionbasic_add.shader.assets
+  assetBundleVariant: 

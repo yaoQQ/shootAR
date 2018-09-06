@@ -1,0 +1,8 @@
+fileFormatVersion: 2
+guid: e75727d9555d9d14ca51d91908c681bc
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: assets$resources$@shaders$custom$unlit-transparent-alpha$unlit
+    - transparent colored.shader.assets
+  assetBundleVariant: 

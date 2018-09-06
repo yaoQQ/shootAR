@@ -1,0 +1,109 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: ShipD0301m
+  m_Shader: {fileID: 4800000, guid: 26b1cd0dfc3d66d4a9194ce7b54e29e4, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 5
+  m_CustomRenderQueue: 2000
+  stringTagMap: {}
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+    - first:
+        name: _Bump
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _Cubemap
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _DisintegrateTex
+      second:
+        m_Texture: {fileID: 2800000, guid: fabe50e6605f4f342b26caf4a0f57f6f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _GlossMap
+      second:
+        m_Texture: {fileID: 2800000, guid: 3d03cb910e14d0b459b67b08c34ec783, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _Glow
+      second:
+        m_Texture: {fileID: 2800000, guid: c971c99bef81d984ab66130774833437, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _GlowAlpha
+      second:
+        m_Texture: {fileID: 2800000, guid: 87c303b671801df47985c8551431bfc6, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _MainTex
+      second:
+        m_Texture: {fileID: 2800000, guid: 117e69d90d450b04bb35765188c5b384, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _Spe
+      second:
+        m_Texture: {fileID: 2800000, guid: 452a60026375cc34db32fa3252c3eba5, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - first:
+        name: _BSpePow
+      second: 5
+    - first:
+        name: _BSpeRange
+      second: 4
+    - first:
+        name: _BumpPow
+      second: 1
+    - first:
+        name: _CubemapPow
+      second: 2
+    - first:
+        name: _DisintegrateAmount
+      second: 0.001
+    - first:
+        name: _EdgeRange
+      second: 0
+    - first:
+        name: _GlowOffsetX
+      second: 1
+    - first:
+        name: _GlowOffsetY
+      second: 0
+    - first:
+        name: _GlowPow
+      second: 3
+    - first:
+        name: _SpePow
+      second: 20
+    - first:
+        name: _SpeRange
+      second: 20
+    m_Colors:
+    - first:
+        name: _BSpeColor
+      second: {r: 1, g: 1, b: 1, a: 1}
+    - first:
+        name: _Color
+      second: {r: 1, g: 1, b: 1, a: 1}
+    - first:
+        name: _EdgeColor
+      second: {r: 0.19999999, g: 0.6689655, b: 1, a: 0}

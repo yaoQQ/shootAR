@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: dae95f33e95b64d459571231f587b190
+timeCreated: 1502099619
+licenseType: Pro
+ShaderImporter:
+  defaultTextures:
+  - _Noise: {instanceID: 0}
+  - _Noise_copy: {instanceID: 0}
+  - _Noise_copy_copy: {instanceID: 0}
+  - _FlowMap: {instanceID: 0}
+  - _FlowMap_copy: {instanceID: 0}
+  userData: 
+  assetBundleName: assets$resources$shaders$custom$sf_starflowrim.shader.assets
+  assetBundleVariant: 

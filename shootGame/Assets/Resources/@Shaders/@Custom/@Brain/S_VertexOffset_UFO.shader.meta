@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 999ac64508f606c4386a30a597d39792
+timeCreated: 1502100579
+licenseType: Pro
+ShaderImporter:
+  defaultTextures:
+  - _MainTex: {instanceID: 0}
+  userData: 
+  assetBundleName: assets$resources$@shaders$custom$brain$s_vertexoffset_ufo.shader.assets
+  assetBundleVariant: 

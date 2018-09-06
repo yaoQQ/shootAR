@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 1586c67b6560bd24a890f335db04720f
+timeCreated: 1502100472
+licenseType: Pro
+ShaderImporter:
+  defaultTextures:
+  - _MainTex: {instanceID: 0}
+  userData: 
+  assetBundleName: assets$resources$@shaders$custom$brain$s_vertexoffset_hedra.shader.assets
+  assetBundleVariant: 

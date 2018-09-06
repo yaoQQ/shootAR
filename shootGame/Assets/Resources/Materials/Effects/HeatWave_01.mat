@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: HeatWave_01
+  m_Shader: {fileID: 4800000, guid: db1861c12b403bb4db45e64639a1fe52, type: 3}
+  m_ShaderKeywords: _EMISSION
+  m_LightmapFlags: 1
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+    - first:
+        name: _FlowMap
+      second:
+        m_Texture: {fileID: 2800000, guid: 6833359e887c3c54f98cbbbc260a4dbd, type: 3}
+        m_Scale: {x: 4, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _MainTex
+      second:
+        m_Texture: {fileID: 2800000, guid: 4cf2b465adb03724e9c947bceec57a8d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _Mask
+      second:
+        m_Texture: {fileID: 2800000, guid: f7ce8941019e25d4fba6173316901983, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _RadialUV_BtoMask
+      second:
+        m_Texture: {fileID: 2800000, guid: 7bdec4a9b9101ca438d960b854210762, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - first:
+        name: _EmissStrength
+      second: 3
+    - first:
+        name: _FlowStrength
+      second: 0.15
+    - first:
+        name: _U_OffsetSpeed
+      second: 0
+    - first:
+        name: _V_OffsetSpeed
+      second: 0.1
+    m_Colors:
+    - first:
+        name: _Color
+      second: {r: 1, g: 0.4363428, b: 0.058823526, a: 1}

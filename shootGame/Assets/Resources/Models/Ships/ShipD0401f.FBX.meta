@@ -1,0 +1,147 @@
+fileFormatVersion: 2
+guid: 02fb7dc022ce3eb4c93ada2dfba1f175
+timeCreated: 1469074287
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ship_0
+    100002: ship_1
+    100004: ship_2
+    100006: ship_3
+    100008: ship_4
+    100010: //RootNode
+    100012: ship_005
+    100014: ship
+    100016: "\u5DE1\u6D0B\u8266"
+    100018: "\u6230\u70C8\u8266"
+    100020: "\u6CF0\u5766"
+    100022: "\u7121\u4EBA\u6A5F"
+    100024: "\u822A\u6BCD"
+    100026: "\u8B77\u885B\u8266"
+    100028: "\u9A45\u9010\u8266"
+    400000: ship_0
+    400002: ship_1
+    400004: ship_2
+    400006: ship_3
+    400008: ship_4
+    400010: //RootNode
+    400012: ship_005
+    400014: ship
+    400016: "\u5DE1\u6D0B\u8266"
+    400018: "\u6230\u70C8\u8266"
+    400020: "\u6CF0\u5766"
+    400022: "\u7121\u4EBA\u6A5F"
+    400024: "\u822A\u6BCD"
+    400026: "\u8B77\u885B\u8266"
+    400028: "\u9A45\u9010\u8266"
+    2300000: ship_0
+    2300002: ship_1
+    2300004: ship_2
+    2300006: ship_3
+    2300008: ship_4
+    2300010: ship_005
+    2300012: ship
+    2300014: "\u5DE1\u6D0B\u8266"
+    2300016: "\u6230\u70C8\u8266"
+    2300018: "\u6CF0\u5766"
+    2300020: "\u7121\u4EBA\u6A5F"
+    2300022: "\u822A\u6BCD"
+    2300024: "\u8B77\u885B\u8266"
+    2300026: "\u9A45\u9010\u8266"
+    3300000: ship_0
+    3300002: ship_1
+    3300004: ship_2
+    3300006: ship_3
+    3300008: ship_4
+    3300010: ship_005
+    3300012: ship
+    3300014: "\u5DE1\u6D0B\u8266"
+    3300016: "\u6230\u70C8\u8266"
+    3300018: "\u6CF0\u5766"
+    3300020: "\u7121\u4EBA\u6A5F"
+    3300022: "\u822A\u6BCD"
+    3300024: "\u8B77\u885B\u8266"
+    3300026: "\u9A45\u9010\u8266"
+    4300000: ship_0
+    4300002: ship_1
+    4300004: ship_2
+    4300006: ship_3
+    4300008: ship_4
+    4300010: ship_005
+    4300012: "\u6CF0\u5766"
+    4300014: "\u822A\u6BCD"
+    4300016: "\u6230\u70C8\u8266"
+    4300018: "\u5DE1\u6D0B\u8266"
+    4300020: "\u9A45\u9010\u8266"
+    4300022: "\u8B77\u885B\u8266"
+    4300024: "\u7121\u4EBA\u6A5F"
+    4300026: ship
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: assets$resources$models$ships$shipd0401f.fbx.assets
+  assetBundleVariant: 

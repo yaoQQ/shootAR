@@ -1,0 +1,495 @@
+fileFormatVersion: 2
+guid: c9e4bc65ea1dfea4286a1a11124b8f49
+timeCreated: 1507538976
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Windows_06Atlas_0
+    21300002: Windows_06Atlas_1
+    21300004: Windows_06Atlas_2
+    21300006: Windows_06Atlas_3
+    21300008: Windows_06Atlas_4
+    21300010: Windows_06Atlas_5
+    21300012: Windows_06Atlas_6
+    21300014: Windows_06Atlas_7
+    21300016: Windows_06Atlas_8
+    21300018: Windows_06Atlas_9
+    21300020: Windows_06Atlas_10
+    21300022: Windows_06Atlas_11
+    21300024: Windows_06Atlas_12
+    21300026: Windows_06Atlas_13
+    21300028: Windows_06Atlas_14
+    21300030: Windows_06Atlas_15
+    21300032: Windows_06Atlas_16
+    21300034: Windows_06Atlas_17
+    21300036: Windows_06Atlas_18
+    21300038: Windows_06Atlas_19
+    21300040: Windows_06Atlas_20
+    21300042: Windows_06Atlas_21
+    21300044: Windows_06Atlas_22
+    21300046: Windows_06Atlas_23
+    21300048: Windows_06Atlas_24
+    21300050: Windows_06Atlas_25
+    21300052: Windows_06Atlas_26
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: -1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 10
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Windows_06Atlas_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 881
+        width: 34
+        height: 31
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windows_06Atlas_1
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 852
+        width: 56
+        height: 25
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windows_06Atlas_2
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 717
+        width: 128
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windows_06Atlas_3
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 854
+        width: 163
+        height: 6
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windows_06Atlas_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 732
+        width: 73
+        height: 99
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windows_06Atlas_5
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 804
+        width: 25
+        height: 27
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windows_06Atlas_6
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 824
+        width: 101
+        height: 27
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windows_06Atlas_7
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 782
+        width: 19
+        height: 14
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windows_06Atlas_8
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 782
+        width: 15
+        height: 14
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windows_06Atlas_9
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 764
+        width: 70
+        height: 36
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windows_06Atlas_10
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 706
+        width: 32
+        height: 27
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windows_06Atlas_11
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 718
+        width: 83
+        height: 51
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windows_06Atlas_12
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 667
+        width: 273
+        height: 49
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windows_06Atlas_13
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 696
+        width: 458
+        height: 21
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windows_06Atlas_14
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 0
+        width: 327
+        height: 193
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windows_06Atlas_15
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 536
+        width: 45
+        height: 129
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windows_06Atlas_16
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 617
+        width: 89
+        height: 77
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windows_06Atlas_17
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 590
+        width: 122
+        height: 106
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windows_06Atlas_18
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 568
+        width: 22
+        height: 21
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windows_06Atlas_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 330
+        width: 215
+        height: 144
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windows_06Atlas_20
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 382
+        width: 183
+        height: 154
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windows_06Atlas_21
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 382
+        width: 36
+        height: 37
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windows_06Atlas_22
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 330
+        width: 40
+        height: 43
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windows_06Atlas_23
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 200
+        width: 180
+        height: 181
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windows_06Atlas_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 256
+        height: 129
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windows_06Atlas_25
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 194
+        width: 522
+        height: 75
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windows_06Atlas_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 683
+        height: 192
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

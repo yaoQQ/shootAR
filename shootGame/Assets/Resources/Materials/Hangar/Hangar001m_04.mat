@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Hangar001m_04
+  m_Shader: {fileID: 4800000, guid: bad1448e338fcd14280dd1e82ebfac2f, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 1
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+    - first:
+        name: _BumpMap
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _Cube
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _DecalTex
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _Filter
+      second:
+        m_Texture: {fileID: 2800000, guid: 7e2ac73c5b0e5e54dbac08ef60d1a50c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _FlashTex
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _Illumin
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _MainTex
+      second:
+        m_Texture: {fileID: 2800000, guid: 02af4e18cce090e47a02a036d385d902, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - first:
+        name: _FlashPow
+      second: 0
+    - first:
+        name: _FlashTime
+      second: 0
+    - first:
+        name: _IllIntensity
+      second: 1
+    - first:
+        name: _Intensity
+      second: 2
+    - first:
+        name: _RefIntensity
+      second: 1
+    - first:
+        name: _RimPower
+      second: 8
+    - first:
+        name: _Shininess
+      second: 0.75
+    m_Colors:
+    - first:
+        name: _Color
+      second: {r: 0.6503027, g: 0.71323526, b: 0.7106312, a: 1}
+    - first:
+        name: _IlluminColor
+      second: {r: 0, g: 0, b: 0, a: 1}
+    - first:
+        name: _ReflectColor
+      second: {r: 0, g: 0, b: 0, a: 0.184}
+    - first:
+        name: _RimColor
+      second: {r: 0.25, g: 0.25, b: 0.25, a: 0}
+    - first:
+        name: _SpecColor
+      second: {r: 0.4852941, g: 0.4852941, b: 0.4852941, a: 1}
+--- !u!1002 &2100001
+EditorExtensionImpl:
+  serializedVersion: 6
